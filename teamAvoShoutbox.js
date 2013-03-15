@@ -1,8 +1,3 @@
-/**
- * TODO:
- *  Add Hardcore Mode for Reading Rainbow -> Cycles chat color too
- *  Hook text submit code to allow for custom chat commands (e.g. /rainbowtext)
- */
 var shoutboxUtilities = (function () {
   //requestAnimationFrame polyfill
 	(function () {
@@ -29,7 +24,7 @@ var shoutboxUtilities = (function () {
 			window.cancelAnimationFrame = function(id) {
 				clearTimeout(id);
 			};
-	}()); // */
+	}());
   
   //Prototype additions
   Array.prototype.includes = function(value) {

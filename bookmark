@@ -1,0 +1,1 @@
+javascript:var script = document.createElement("script");script.setAttribute("src", "https://raw.github.com/chall8908/team_avo_shoutbox_enhancements/master/teamAvoShoutbox.min.js");document.body.appendChild(script);
