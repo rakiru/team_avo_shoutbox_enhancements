@@ -115,6 +115,12 @@ Backup*/
 UpgradeLog*.XML
 
 
+##################
+## JetBrains IDEA
+##################
+
+.idea
+
 
 ############
 ## Windows
