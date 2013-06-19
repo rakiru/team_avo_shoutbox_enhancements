@@ -4,7 +4,7 @@
 // @include       /^http://www.teamavolition.com/index.php\?app=forums\/?$/
 // @include       /^http://www.teamavolition.com/shoutbox\/?$/
 // @version       1.0
-// @updateURL     https://raw.github.com/rakiru/team_avo_shoutbox_enhancements/master/teamAvoShoutboxGM.js
+// @updateURL     https://raw.github.com/rakiru/team_avo_shoutbox_enhancements/master/teamAvoShoutbox.user.js
 // @icon          http://www.teamavolition.com/favicon.ico
 // ==/UserScript==
 
